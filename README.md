@@ -8,3 +8,7 @@
      Character encoding includes ASCII and UTF-8 encoding and decoding
      Text representation includes Bag-of-Words (BoW) and Term Frequency - Inverse Document Frequency (TF-IDF)
 
+3.  N_grams_and_Word_Embeddings script, as the name suggests, contains work on N-gram and Word Embeddings.
+     N-gram include Unigram, Bigram, Trigram.
+     Word Embeddings include Continuous Bag-of-words (CBOW), Skip-gram and Global Vectors for Word Representation (GloVe)
+
