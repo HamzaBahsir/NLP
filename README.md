@@ -12,3 +12,7 @@
      N-gram include Unigram, Bigram, Trigram.
      Word Embeddings include Continuous Bag-of-words (CBOW), Skip-gram and Global Vectors for Word Representation (GloVe)
 
+4. Artificial Neural Networks (ANNs) script contains
+   Select a classic problem, Setting Weights and biases, Activation function, Forward propogation, Back propogation, Loss function, Prediction
+   
+
