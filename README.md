@@ -1,5 +1,5 @@
 # NLP
-## Text pre-processing, embeddings, Artificial Neural Networks (ANNs)
+## Text pre-processing, embeddings, ANNs, RNNs
 
 
 1.  StartingNLP contains work on Tokenization, Part-of-Speech (POS) Tagging, Word Sense Disambiguation(WSD), Dependency Parsing, Syntactic Parsing, Text Classification, Coreference Resolution, Named Entity Recognition (NER), and Natural Language Generation
@@ -15,5 +15,8 @@
 
 4. Artificial Neural Networks (ANNs) script contains
    Select a classic problem, Setting Weights and biases, Activation function, Forward propogation, Back propogation, Loss function, Prediction
+
+5. Recurrent Neural Networks (RNNs) script contains
+   Data preparation, RNN model, Train the model using MSE loss and Adam optimizer, plot predictions
    
 
