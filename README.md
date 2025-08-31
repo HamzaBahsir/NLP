@@ -18,5 +18,8 @@
 
 5. Recurrent Neural Networks (RNNs) script contains
    Data preparation, RNN model, Train the model using MSE loss and Adam optimizer, plot predictions
+
+6. Transformers script contains
+   Cosine similarity, sentence transformers, Hugging Face transformers, Dense Passage retrival, Image-Text Embedding, Using PyTorch 
    
 
